@@ -1,6 +1,6 @@
-E:\TestProject\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-E:\TestProject\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-E:\TestProject\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-E:\TestProject\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-E:\TestProject\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
-E:\TestProject\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
